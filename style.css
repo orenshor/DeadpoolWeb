@@ -34,8 +34,45 @@ a:hover{
 	border: 15px solid black;
 	border-color: black;
 	padding: 5px;
-	width: 450px;
-	height: 600px;
+	width: 337.5px;
+	height: 450px;
 
+}
+
+#diffTable{
+	border-collapse: collapse;
+	text-align: center;
+	width: 70%;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-size: 100%;
+	color: black;
+	border: 3px solid black;
+
+}
+#tableName{
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-size: 200%;
+	color: white;
+	padding: 3%;
+}
+#email{
+	text-align: center;
+	font-size: 150%;
+	border: 3px dotted black;
+	padding: 2%;
+}
+#webT{
+	text-align: center;
+	width: 70%;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-size: 100%;
+	color: black;
+}
+.webDots{
+	text-align: left;
+	list-style-type: circle;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-size: 130%;
+	color: white;
 }
 
